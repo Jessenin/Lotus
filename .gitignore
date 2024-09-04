@@ -79,3 +79,4 @@ DerivedDataCache/*
 
 #Log
 *.log
+/Intermediate
